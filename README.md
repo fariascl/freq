@@ -9,4 +9,4 @@ En Fedora (testeado): `sudo dnf install kernel-tools`
 
 Después de haber instalado los paquetes requeridos, ejecutar desde el directorio donde está clonado el script:
 
-como root: `./freq.sh` o `sudo bash freq.sh`
+como root: `./freq.sh` o `sudo sh freq.sh`
